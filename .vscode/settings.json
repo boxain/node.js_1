@@ -1,0 +1,8 @@
+{
+    "workbench.iconTheme": "vscode-icons", // 要先下載vscode-icons套件(後面會提到)
+    "editor.fontSize": 13, // 字體大小
+    "editor.tabSize": 2, // 一個tab的空白間隔
+    "files.autoSave": "afterDelay", // 自動儲存檔案
+    "editor.formatOnPaste": true, // 貼上程式碼時會自動幫你排版
+    "files.insertFinalNewline": true // 儲存檔案時在其結尾插入最後一個新行
+}
